@@ -1,0 +1,14 @@
+{
+    "agolOrg":{
+            "url":"https://myorg.maps.arcgis.com",
+            "username":"an_admin",
+            "password":"secret",
+            "shortName":"myorg"
+    },
+    "authService":{
+            "url":"https://my.authservice.domain/foo.php",
+            "username":"",
+            "password":"secret",
+            "valueIfTrue":"true"
+    }
+}
